@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 
 # 💫 About Me:
 MERN Stack Developer in progress and a Computer Engineering student.<br>Strong foundation in JavaScript and modern web technologies.<br>Building full-stack applications using MongoDB, Express, React, and Node.js.<br>Actively learning, improving, and preparing for industry-level roles.
@@ -19,5 +17,4 @@ MERN Stack Developer in progress and a Computer Engineering student.<br>Strong f
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanket-1-shinde&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
